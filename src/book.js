@@ -1,9 +1,16 @@
-function createTitle() {
-  
-}
+function createTitle(title) {
+return `The ${title}`
+  }
+  console.log(createTitle("Storm's Awakening"));
 
+
+
+
+
+
+  
 module.exports = {
-  createTitle,
+    createTitle,
   // buildMainCharacter,
   // saveReview,
   // calculatePageCount,
