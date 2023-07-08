@@ -13,12 +13,15 @@
 // var title = "Harry Potter";
 // var ...
 
+var title = "Crime and Punishment"
+var pages = 430
+
 
 
 // Reassign (not initialize) your "pages" variable from above. An editor came around and
 // condensed the book, use a built in math operator to make the page count a quarter
 // of what it currently is 
-
+var pages = 430 / 4
 
 
 // Initialize a new variable "movie", but leave it undefined
