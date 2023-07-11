@@ -15,7 +15,21 @@ function buildMainCharacter(name, age, pronouns) {
 
 function saveReview(review,reviews){
 reviews.push(review);
+//add only unique reviews
+//using the array of reviews
+//expecting the length of the reviews array to be 2
+//use the saveReview function to input multiple arg
+// output should be line 87
+// console.log(reviews)
+
+// method to use for adding a unique review?
+//.includes? .filter? 
+//use an if statement?
+// if !review == review
 };
+
+
+
 
 
 
